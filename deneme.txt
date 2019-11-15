@@ -1,0 +1,15 @@
+Selection sort________
+in order to sort 100 elements took 0 milliseconds
+in order to sort 1000 elements took 6 milliseconds
+in order to sort 10000 elements took 59 milliseconds
+in order to sort 100000 elements took 3689 milliseconds
+bubble sort________
+in order to sort 100 elements took 0 milliseconds
+in order to sort 1000 elements took 8 milliseconds
+in order to sort 10000 elements took 251 milliseconds
+in order to sort 100000 elements took 18395 milliseconds
+insertion sort________
+in order to sort 100 elements took 0 milliseconds
+in order to sort 1000 elements took 5 milliseconds
+in order to sort 10000 elements took 22 milliseconds
+in order to sort 100000 elements took 1322 milliseconds
